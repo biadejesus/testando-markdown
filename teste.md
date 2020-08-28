@@ -50,6 +50,12 @@ http://www.petsexperience.com/wp-content/uploads/2018/05/What-Are-Hybrid-Cat-Bre
 
 
 Inline`code` has`crases em volta de` it
+
+~~~ c
+int main(){
+int x = 10;
+}
+~~~
 ```
 int x = 10;
 ```
