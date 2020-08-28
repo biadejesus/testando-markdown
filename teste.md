@@ -16,9 +16,17 @@ Subtitulo
 
 *Lorem ipsum dolor sit amet,* consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. **Ut enim ad minim veniam,** quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. **_Duis aute irure dolor_** in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ~~Excepteur sint~~ occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
+1. Item 1
+1. Item 2
+1. Item 3
+1. Item 3a
+1. Item 3b
+
+
 1. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
 2) doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-2.1 veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+2.1. veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
 + voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
 * magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
 - qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
