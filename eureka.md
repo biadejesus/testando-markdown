@@ -18,6 +18,6 @@ voce pode acessar clicando [aqui](https://www.reddit.com/r/cats/)
 
 ```c
 int main(){
-int x = 10;
+  int x = 10;
 }
 ```
